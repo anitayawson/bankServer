@@ -1,0 +1,20 @@
+// A persona can:
+
+/* 
+1. Create a bank
+2. Update a bank's details
+3. Delete a bank
+4. Access a list of banks created
+ */
+
+//  Banks details:
+
+/* 
+1. Name
+2. Branch
+3. Location
+4. Address
+5. Phone
+6. Bank Account Number
+*/
+
